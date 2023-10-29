@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{5E8B15D0-6918-446A-AC3D-03174657EE73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactForm", "ContactForm\ContactForm.csproj", "{F806BBC6-8AAB-47FB-9152-9B0A2B0845AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5E8B15D0-6918-446A-AC3D-03174657EE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E8B15D0-6918-446A-AC3D-03174657EE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E8B15D0-6918-446A-AC3D-03174657EE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F806BBC6-8AAB-47FB-9152-9B0A2B0845AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F806BBC6-8AAB-47FB-9152-9B0A2B0845AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F806BBC6-8AAB-47FB-9152-9B0A2B0845AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F806BBC6-8AAB-47FB-9152-9B0A2B0845AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
